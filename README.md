@@ -2,7 +2,7 @@
 
 ## Objective:
 
-In this notebook we will try to classify dog and cat images according to their breeds. We will use the Oxford Pets Kaggle dataset, which consists of 7,349 training images and comprises 37 breeds of cats or dogs, which means that we have an average of 200 training images per cat or dog breed.
+In this project we tried to classify dog and cat images according to their breeds. We used the dataset from the Oxford Pets Kaggle competition, which consists of 7,349 training images and comprises 37 breeds of cats or dogs, which means that we have an average of less than 200 training images per cat or dog breed.
 
 ## Result:
 
