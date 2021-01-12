@@ -38,6 +38,6 @@ With the performance metric being multiclass loss:
 
 ## Model:
 
-The final model was an ensemble of ResNet50, ResNet50V2, Xception, Inception, NASNetLarge and InceptionResNetV2, all of them pretrained on the ImageNet dataset and with a new head of neurons and some regularization.
+The final model was an ensemble of ResNet50, ResNet50V2, Xception, Inception, NASNetLarge and InceptionResNetV2, all of them pretrained on the ImageNet dataset, with a new head of units and some regularization.
 
 
