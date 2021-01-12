@@ -11,7 +11,7 @@ In this project we tried to classify dog and cat images according to their breed
  ![descarga](https://user-images.githubusercontent.com/70718425/104301888-70f18180-54c8-11eb-9613-4f748065a9bf.png)
 
 Our model achieved a testing accuracy of approximately 0.947.
-After checking that the model's performance was good, I retrained it in all the data, and I used it to participate in the Kaggle competition from which I took the data, achieving a multiclass loss of 0.27231, a better performance measure that the one achieved by the winner of the competition:
+After checking that the model's performance was good, I retrained it in all the data, and I used it to participate in the Kaggle competition from which I took the dataset, achieving a multiclass loss of 0.27231, a better performance metric that the one achieved by the winner of the competition:
 
 ![score](https://user-images.githubusercontent.com/70718425/104302219-d6457280-54c8-11eb-8def-30a676c9f9d4.png)
 
